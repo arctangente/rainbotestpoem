@@ -1,4 +1,4 @@
-concombre
+﻿concombre
 
 el concombre
 sent bon
@@ -14,3 +14,5 @@ la tequilla me fait mal au ventre beaucoup
 
 rhum trop bon putain la douceur de la canne sur mon palet
 j'aime trop le concombre
+
+j'aime la peche
